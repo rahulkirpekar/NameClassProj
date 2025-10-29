@@ -1,0 +1,7 @@
+Smith,Claudia,I.
+Green#Rachel#I.
+Falk,Joseph,K.(Joe)
+NOLASTNAME#NOFIRSTNAME#NOMIDDLENAME
+Same: false
+Number of objects: 4
+EndTest
