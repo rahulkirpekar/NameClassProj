@@ -11,6 +11,7 @@ import javax.swing.JOptionPane;
 
 public class TestsSupport {
 	
+	
 	/* Leave the following variable set to false.  We use while developing the */
 	/* expected solutions for a test.  If you change it to false you will corrupt */
 	/* your *.txt files containing expected results. */

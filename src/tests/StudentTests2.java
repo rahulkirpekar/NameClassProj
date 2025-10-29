@@ -14,6 +14,7 @@ public class StudentTests2
 	
 		Name n = new Name("Dhriti", "Rahul", "Choksi");
 		
+		
 		// no nickname initially : getNickname should  return "" per impl
 		
 		if("".equals(n.getNickname())) 

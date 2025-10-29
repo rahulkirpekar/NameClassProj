@@ -11,6 +11,7 @@ public class PublicTests {
     /* The submit server uses a different value for TESTS_TAG   */
     public static final String TESTS_TAG = "\nEndTest";
 	
+    
 	@Test
 	public void test1() {
 		String answer = "";

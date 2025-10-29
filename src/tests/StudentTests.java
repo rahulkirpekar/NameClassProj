@@ -16,6 +16,7 @@ public class StudentTests
 		
 		Name n = new Name();
 		
+		
 		if(n != null) 
 		{
 			System.out.println("Object created : PASS");

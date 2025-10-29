@@ -11,6 +11,7 @@ public class Name
 	// by using a  private static field
 	private static int nameObjsCount ;
 
+	
 	// static properties initialise by static block
 	static 
 	{
